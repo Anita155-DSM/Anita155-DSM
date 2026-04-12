@@ -35,22 +35,8 @@
 **HOSTING:**
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
-
-## 📂 Proyectos | Projects
-* **Vértice:** Web App (Personal Project).
-* **Agencia Focus:** Digital Marketing Portfolio.
-* **Dev Store:** Tech Support & Mobile Sales.
-
----
 
 ## 📫 Conectemos | Let's Connect
 * **Instagram:** [@yvng_ann](https://www.instagram.com/yvng_ann/)
 * **Email:** [anahiperdzsm@gmail.com](mailto:anahiperdzsm@gmail.com)
 * **Workana:** [Anahí Pérez](https://www.workana.com/f/anahi-perez)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anita155-DSM&show_icons=true&theme=radical" alt="Estadísticas de Anahí" />
-</p>
