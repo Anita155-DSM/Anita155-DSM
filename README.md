@@ -1,6 +1,7 @@
 # ¡Hola! Soy Anahí Pérez 👋 | Hi! I'm Anahí Pérez
 
 ### 🚀 Full Stack Developer 
+![Gato programando](https://media.giphy.com/media/3o7TKsj0XnU5YV4zD2/giphy.gif)
 
 **ES:** Soy una apasionada del desarrollo web y móvil, actualmente cursando la carrera de **Desarrollo de Software Multiplataforma** en el **Instituto Politécnico Formosa**. Me enfoco en crear soluciones digitales escalables y seguras.
 
