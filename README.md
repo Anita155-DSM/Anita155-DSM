@@ -41,5 +41,5 @@
 ## 📫 Conectemos | Let's Connect
 
 * **Instagram:** [@yvng_ann](https://www.instagram.com/yvng_ann/)
-* **Email:** [anahiperezdsm@gmail.com](gmailto:anahiperezdsm@gmail.com)
+* **Email:** [anahiperezdsm@gmail.com](mailto:anahiperezdsm@gmail.com)
 
